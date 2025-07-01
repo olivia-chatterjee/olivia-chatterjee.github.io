@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "About Me"
+permalink: /
+author_profile: true
+---
+
 ### About Me
 
 I am **Olivia Chatterjee**, a final-year undergraduate in **Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML)**.
