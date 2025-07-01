@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Projects & Research
-
----
-
 #### **Pre-Natal Risk Assessment Engine**  
 **Tosoh India Pvt. Ltd.** (Oct 2024 – Mar 2025)  
 **Tech:** Python, Neural Networks, XGBoost, Random Forest, Differential Privacy  
