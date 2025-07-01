@@ -1,4 +1,4 @@
-### 👩‍💻 About Me
+### About Me
 
 I am **Olivia Chatterjee**, a final-year undergraduate in **Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML)**.
 
@@ -6,7 +6,7 @@ My academic and research journey is shaped by a deep interest in the **intersect
 
 ---
 
-#### 🔬 Research Experience
+#### Research Experience
 - Semantic reasoning and knowledge representation using CNNs to classify structured cancer data  
 - Neural-symbolic hybrid systems for diagnostics in healthcare  
 - Privacy-preserving AI with explainable models using differential privacy  
@@ -14,7 +14,7 @@ My academic and research journey is shaped by a deep interest in the **intersect
 
 ---
 
-#### 🎯 Core Interests
+#### Core Interests
 - AI + Symbolic Logic & Semantics  
 - Programming Language Theory & Interpretable Models  
 - Secure Computation & Cryptographic AI  
@@ -22,7 +22,7 @@ My academic and research journey is shaped by a deep interest in the **intersect
 
 ---
 
-#### 🏆 Highlight
+#### Highlight
 - **3rd Rank (National Level)** in Cryptography & Security Bootcamp hosted by the Indian Statistical Institute and ISEA (MeitY, Govt. of India)
 
 ---
