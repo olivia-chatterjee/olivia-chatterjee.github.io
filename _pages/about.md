@@ -22,6 +22,6 @@ My academic and research journey is shaped by a deep interest in the **intersect
 - Building intelligent, explainable, and privacy-preserving tools for healthcare & finance  
 
 ### Highlight
-- **3rd Rank (National Level)** in Cryptography & Security Bootcamp hosted by the Indian Statistical Institute and ISEA (MeitY, Govt. of India)
+- **3rd Rank** in Cryptography & Security Bootcamp hosted by the Indian Statistical Institute and ISEA (MeitY, Govt. of India)
 
 My long-term vision is to found a **research-driven startup** that bridges academia and real-world impact, building secure, interpretable, and high-stakes AI systems.
