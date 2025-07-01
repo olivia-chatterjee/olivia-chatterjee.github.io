@@ -9,10 +9,7 @@
 
 main:
   - title: "Projects & Research"
-    url: /projects/
-
-  - title: "Publications"
-    url: /publications/    
+    url: /projects/   
 
   - title: "Academic"
     url: /academic/
