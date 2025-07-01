@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-### About Me
-
 I am **Olivia Chatterjee**, a final-year undergraduate in **Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML)**.
 
 My academic and research journey is shaped by a deep interest in the **intersection of logic and learning** — how deterministic systems can evolve and infer knowledge through experience. I have explored this through projects in **machine learning**, **compiler design**, and **semantic AI**, complemented by hands-on research at institutes like **Florida International University** and **Occidental College**.
