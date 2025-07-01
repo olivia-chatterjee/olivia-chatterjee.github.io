@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Projects & Research"
+permalink: /projects/
+author_profile: true
+---
 
 ### Projects & Research
 
