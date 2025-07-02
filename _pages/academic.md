@@ -1,6 +1,11 @@
+---
+layout: archive
+title: "Academic Background"
+permalink: /academic/
+author_profile: true
+---
 
-
-### Academic Background
+---
 
 #### Education
 
