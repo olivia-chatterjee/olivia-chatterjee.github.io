@@ -7,6 +7,24 @@ author_profile: true
 
 ---
 
+#### **Predictive Modeling for Country Vulnerability Assessment**  
+**Hoovers Institution, Stanford University, USA** (Jul 2025 – Present)  
+**Tech:** Python, LSTM  
+- Design and implement predictive models using machine learning and deep learning for multi-horizon vulnerability estimation.  
+- Collaborate with interdisciplinary teams to integrate diverse country-specific data streams into robust modeling pipelines.  
+- Validate and refine models through historical analysis to improve accuracy, robustness, and actionable insights.
+
+---
+
+#### **CNN-Based Classification of Tabular Data**  
+**Occidental College, USA** (Aug 2024 – Jul 2025)  
+**Tech:** Python, CNN, Tabular-to-Image Transformation  
+- Transformed structured cancer datasets into image-like formats for CNN-based classification.  
+- Improved diagnostic accuracy for early-stage cancer detection by leveraging spatial encodings.  
+- Focused on structured semantics, model interpretability, and academic publication.
+
+---
+
 #### **Pre-Natal Risk Assessment Engine**  
 **Tosoh India Pvt. Ltd.** (Oct 2024 – Mar 2025)  
 **Tech:** Python, Neural Networks, XGBoost, Random Forest, Differential Privacy  
@@ -16,16 +34,7 @@ author_profile: true
 
 ---
 
-#### **CNN-Based Classification of Tabular Data**  
-**Occidental College, USA** (Aug 2024 – Ongoing)  
-**Tech:** Python, CNN, Tabular-to-Image Transformation  
-- Transformed structured cancer datasets into image-like formats for CNN-based classification.  
-- Improved diagnostic accuracy for early-stage cancer detection by leveraging spatial encodings.  
-- Focused on structured semantics, model interpretability, and academic publication.
-
----
-
-#### **Stock Market Crash Forecasting**  
+#### **Stock Market Crash Prediction**  
 **Florida International University, USA** (Apr 2024 – Jul 2024)  
 **Tech:** Python, Time Series, Supervised Learning  
 - Analyzed 10 years of stock price data to identify crash-like patterns using ML classification techniques.  
