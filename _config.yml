@@ -22,7 +22,7 @@ repository               : "olivia-chatterjee/olivia-chatterjee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Olivia.JPG"
   name             : "Olivia Chatterjee"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Engineering undergraduate student with a specialization in Artificial Intelligence and Machine Learning."
