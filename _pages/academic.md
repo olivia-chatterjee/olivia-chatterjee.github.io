@@ -10,16 +10,13 @@ author_profile: true
 #### Education
 
 - **B.Tech – Computer Science & Engineering (AI & ML Specialization)**  
-  _Techno Main Salt Lake, Kolkata – MAKAUT (2022–2026)_  
-  • SGPA: 9.13 (latest) | Strong foundation in logic-based AI, compiler design, and machine learning
+  _Techno Main Salt Lake, Kolkata, under Maulana Abul Kalam Azad University of Technology, India (2022–2026)_  
 
 - **Indian School Certificate (ISC)**  
   _La Martiniere for Girls, Kolkata (2020–2022)_  
-  • Score: 94.8%
 
 - **Indian Certificate of Secondary Education (ICSE)**  
   _La Martiniere for Girls, Kolkata (2020)_  
-  • Score: 95.2%
 
 ---
 
@@ -32,10 +29,16 @@ author_profile: true
   `MySQL`, `Oracle`
 
 - **AI/ML Frameworks & Concepts:**  
-  `ANN`, `CNN`, `Supervised Learning`, `Unsupervised Learning`, `Pattern Recognition`, `Graph Theory`
+  `ANN`, `CNN`, `RNN`, `GNN`, `LSTM`, `Ensemble`, `DRL`
+
+- **Algorithms:**
+  `Data Structures`, `Pattern Recognition`, `Graph Theory`
+  
+- **Compiler Design:**
+  `Lexical Analysis`, `Parsing`, `Semantic Analysis`
 
 - **Version Control & Tools:**  
-  `Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `Xcode`, `IntelliJ`
+  `Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `Xcode`, `IntelliJ`, `PyCharm`
 
 - **Other Expertise:**  
-  `Compiler Design`, `Differential Privacy`, `Cryptography`, `Symbolic Reasoning`
+  `Differential Privacy`, `Cryptography`, `Symbolic Reasoning`
