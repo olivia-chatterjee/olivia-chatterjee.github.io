@@ -10,6 +10,7 @@ a collection of research and applied AI/ML projects conducted across academic in
 
 ---
 ### Research Portfolio (Summary Deck)
+---
 
 This presentation summarizes Olivia Chatterjee’s current research interests, applied AI/ML projects, clinical/diagnostic work, and publication status.  
 It is intended for academic review by prospective supervisors and collaborators.
@@ -17,6 +18,13 @@ It is intended for academic review by prospective supervisors and collaborators.
 **Download Research Portfolio (PDF):**  
 [Olivia_Research_Portfolio.pdf](/assets/report/Research Portfolio.pdf){:target="_blank" rel="noopener noreferrer"}
 
+---
+### Publications / Preprints
+---
+
+O. Chatterjee, A. Kole, I. SenGupta, and A. Majumdar.  
+“*Forecasting Stock Market Crashes Using Deep Learning*.” *Preprints*, October 2025.  
+[![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202510.1781.v1-blue)](https://doi.org/10.20944/preprints202510.1781.v1){:target="_blank"}
 
 ---
 ### Individual Research & Project Reports
