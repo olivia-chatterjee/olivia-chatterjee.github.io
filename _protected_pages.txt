@@ -1,1 +1,4 @@
 publications.md abracadabra
+publications.html abracadabra
+/publications.html abracadabra
+
