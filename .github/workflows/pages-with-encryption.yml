@@ -33,7 +33,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./_site
+          destination: ./_pages
 
       # Begin encryption code.
       # This portion of the build job was written by Evan Baldonado (EvanBaldonado.com). Please do not remove this comment.
@@ -43,7 +43,7 @@ jobs:
           npm i -D pagecrypt
           cat _protected_pages.txt | while read file password;
           do
-            sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+            sudo npx pagecrypt "_pages/$file" "_pages/$file" "$password"
           done
       # End encryption code.
 
