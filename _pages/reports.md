@@ -23,7 +23,7 @@ It is intended for academic review by prospective supervisors and collaborators.
 ---
 
 #### Hoover Institution, Stanford University — **Predictive Modeling for Country Vulnerability Assessment**
-OffiProject Name: 
+Project Name: 
 **Duration:** Jul 2025 – Present  
 Global Resilience Intelligence Platform & Partnership [GRIPP] - Developing multi-horizon predictive models to estimate country-level vulnerabilities across political, economic, environmental, and social dimensions using advanced ML architectures (LSTM, DRL).  
 This research enhances early-warning capabilities for geopolitical risk analysis and resilience planning.
