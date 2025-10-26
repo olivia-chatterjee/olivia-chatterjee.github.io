@@ -9,7 +9,7 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** —
 a collection of research and applied AI/ML projects conducted across academic institutions and industry partners.  
 
 ---
-## Research Portfolio (Summary Deck)
+### Research Portfolio (Summary Deck)
 
 This presentation summarizes Olivia Chatterjee’s current research interests, applied AI/ML projects, clinical/diagnostic work, and publication status.  
 It is intended for academic review by prospective supervisors and collaborators.
@@ -19,10 +19,10 @@ It is intended for academic review by prospective supervisors and collaborators.
 
 
 ---
-## Individual Research & Project Reports
+### Individual Research & Project Reports
 ---
 
-### Hoover Institution, Stanford University — **Predictive Modeling for Country Vulnerability Assessment**
+#### Hoover Institution, Stanford University — **Predictive Modeling for Country Vulnerability Assessment**
 OffiProject Name: 
 **Duration:** Jul 2025 – Present  
 Global Resilience Intelligence Platform & Partnership [GRIPP] - Developing multi-horizon predictive models to estimate country-level vulnerabilities across political, economic, environmental, and social dimensions using advanced ML architectures (LSTM, DRL).  
@@ -34,7 +34,7 @@ https://gripp.entiovi.net [_Please ask for credentials_]
 
 ---
 
-### Occidental College — *Classification of Tabular Data Using CNN for Cancer Detection*
+#### Occidental College — *Classification of Tabular Data Using CNN for Cancer Detection*
 **Duration:** Aug 2024 – Jul 2025  
 Explored transforming structured biomedical datasets into image-like representations to enable CNN-based classification.  
 Achieved ~75 % accuracy in cancer detection using genomic data, demonstrating deep learning’s feasibility for structured biomedical data.
@@ -44,7 +44,7 @@ Achieved ~75 % accuracy in cancer detection using genomic data, demonstrating de
 
 ---
 
-### Tosoh India Pvt. Ltd. — *Pre-Natal Risk Assessment Engine (PINE)*
+#### Tosoh India Pvt. Ltd. — *Pre-Natal Risk Assessment Engine (PINE)*
 **Duration:** Oct 2024 – Mar 2025  
 Designed an AI-powered system to assess maternal serum screening results for predicting fetal risks of congenital disorders.  
 Implemented neural networks and ensemble methods (Random Forest, XGBoost) under differential-privacy constraints to safeguard patient data.
@@ -54,7 +54,7 @@ Implemented neural networks and ensemble methods (Random Forest, XGBoost) under 
 
 ---
 
-### Florida International University — *Financial Time Series Analysis with Data-Science Techniques*
+#### Florida International University — *Financial Time Series Analysis with Data-Science Techniques*
 **Duration:** Apr 2024 – Jul 2024  
 Analyzed decade-long stock-market data to identify early crash indicators using time-series transformations and supervised learning models.  
 Provided interpretable early-warning insights for financial anomaly detection and market-stability forecasting.
@@ -64,7 +64,7 @@ Provided interpretable early-warning insights for financial anomaly detection an
 
 ---
 
-### Entiovi Technologies Pvt. Ltd. — *Chromatography Data Analysis and Secure Sensitive Medical Data with Encryption*
+#### Entiovi Technologies Pvt. Ltd. — *Chromatography Data Analysis and Secure Sensitive Medical Data with Encryption*
 **Duration:** Dec 2023 – Jul 2024  
 Built a logic-based diagnostic engine to automate chromatogram interpretation for HbA1c analysis, employing Prolog reasoning and data-encryption techniques.  
 Successfully deployed in live HPLC analyzers across hospitals in India, reducing diagnostic turnaround time.
