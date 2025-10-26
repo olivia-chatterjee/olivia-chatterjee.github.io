@@ -15,7 +15,7 @@ This presentation summarizes Olivia Chatterjee’s current research interests, a
 It is intended for academic review by prospective supervisors and collaborators.
 
 **Download Research Portfolio (PDF):**  
-[Olivia_Research_Portfolio.pdf](/assets/reports/Research Portfolio.pdf){:target="_blank" rel="noopener noreferrer"}
+[Olivia_Research_Portfolio.pdf](/assets/report/Research Portfolio.pdf){:target="_blank" rel="noopener noreferrer"}
 
 
 ---
@@ -40,7 +40,7 @@ Explored transforming structured biomedical datasets into image-like representat
 Achieved ~75 % accuracy in cancer detection using genomic data, demonstrating deep learning’s feasibility for structured biomedical data.
 
 **Download Report:**  
-[Occidental College Research Project Report](/assets/reports/Occidental College Research Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
+[Occidental College Research Project Report](/assets/report/Occidental College Research Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -50,7 +50,7 @@ Designed an AI-powered system to assess maternal serum screening results for pre
 Implemented neural networks and ensemble methods (Random Forest, XGBoost) under differential-privacy constraints to safeguard patient data.
 
 **Download Report:**  
-[Prenatal_Risk_Assessment_Engine](/assets/reports/Tosoh Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
+[Prenatal_Risk_Assessment_Engine](/assets/report/Tosoh Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
@@ -60,7 +60,7 @@ Analyzed decade-long stock-market data to identify early crash indicators using 
 Provided interpretable early-warning insights for financial anomaly detection and market-stability forecasting.
 
 **Download Report:**  
-[Financial_Time_Series_Analysis.pdf](/assets/reports/FIU Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
+[Financial_Time_Series_Analysis.pdf](/assets/report/FIU Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
