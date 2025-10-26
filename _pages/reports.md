@@ -19,13 +19,13 @@ It is intended for academic review by prospective supervisors and collaborators.
 
 
 ---
-Individual Research & Project Reports
+## Individual Research & Project Reports
 ---
 
-### Hoover Institution, Stanford University — **Global Resilience Intelligence Platform & Partnership [GRIPP]**
+### Hoover Institution, Stanford University — **Predictive Modeling for Country Vulnerability Assessment**
 OffiProject Name: 
 **Duration:** Jul 2025 – Present  
-Predictive Modeling for Country Vulnerability Assessment - Developing multi-horizon predictive models to estimate country-level vulnerabilities across political, economic, environmental, and social dimensions using advanced ML architectures (LSTM, DRL).  
+Global Resilience Intelligence Platform & Partnership [GRIPP] - Developing multi-horizon predictive models to estimate country-level vulnerabilities across political, economic, environmental, and social dimensions using advanced ML architectures (LSTM, DRL).  
 This research enhances early-warning capabilities for geopolitical risk analysis and resilience planning.
 
 **Download Report / Live Access:** 
@@ -64,7 +64,7 @@ Provided interpretable early-warning insights for financial anomaly detection an
 
 ---
 
-### Entiovi Technologies Pvt. Ltd. — *HbA1c Diagnostic Automation Platform*
+### Entiovi Technologies Pvt. Ltd. — *Chromatography Data Analysis and Secure Sensitive Medical Data with Encryption*
 **Duration:** Dec 2023 – Jul 2024  
 Built a logic-based diagnostic engine to automate chromatogram interpretation for HbA1c analysis, employing Prolog reasoning and data-encryption techniques.  
 Successfully deployed in live HPLC analyzers across hospitals in India, reducing diagnostic turnaround time.
