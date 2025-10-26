@@ -33,8 +33,34 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./_pages
+          destination: ./_site
 
+      # Begin encryption code.
+      # This portion of the build job was written by Evan Baldonado (EvanBaldonado.com). Please do not remove this comment.
+      # Note: this only encrypts .html pages and not any of the corresponding assets.
+      - name: Encrypt pages with PageCrypt
+        run: |
+          npm i -D pagecrypt
+          cat _protected_pages.txt | while read file password;
+          do
+            sudo npx pagecrypt "_site/$file" "_site/$file" "$password"
+          done
+      # End encryption code.
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
       # Begin encryption code.
       # This portion of the build job was written by Evan Baldonado (EvanBaldonado.com). Please do not remove this comment.
       # Note: this only encrypts .html pages and not any of the corresponding assets.
