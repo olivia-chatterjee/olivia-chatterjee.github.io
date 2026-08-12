@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 #### **Predictive Modeling for Country Vulnerability Assessment**  
-**Hoover Institution, Stanford University, USA** (Jul 2025 – Present)  
+**Hoover Institution, Stanford University, USA** (Jul 2025 – May 2026)  
 **Tech:** Python, LSTM  
 - Design and implement predictive models using machine learning and deep learning for multi-horizon vulnerability estimation.  
 - Collaborate with interdisciplinary teams to integrate diverse country-specific data streams into robust modeling pipelines.  
