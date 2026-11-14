@@ -22,8 +22,9 @@ It is intended for academic review by prospective supervisors and collaborators.
 ### Publications / Preprints
 ---
 
-O. Chatterjee, A. Kole, I. SenGupta, and A. Majumdar.  
-“*Forecasting Stock Market Crashes Using Deep Learning*.” *Preprints*, October 2025.  
+O. Chatterjee, A. Kole, I. SenGupta and A. Majumdar, “*Forecasting Stock Market Crashes Using Deep Learning*,” in Proceedings of the International Conference on Data Management, Analytics and Innovation (ICDMAI 2026), Springer Nature, 2026 (in press). ISBN 978-3-032-38257-3. 
+Peer-reviewed; presented at ICDMAI 2026, January 2026.
+Preprint: doi:10.20944/preprints202510.1781.v1, Oct. 2025  
 [![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202510.1781.v1-blue)](https://doi.org/10.20944/preprints202510.1781.v1){:target="_blank"}
 
 ---
@@ -37,8 +38,9 @@ Global Resilience Intelligence Platform & Partnership [GRIPP] - Developing multi
 This research enhances early-warning capabilities for geopolitical risk analysis and resilience planning.
 
 **Download Report / Live Access:** 
-Version Alpha released in Mid-October 2025 - Live in UAT 
-https://gripp.entiovi.net [_Please ask for credentials_]
+[Stanford Project Report](/assets/report/Stanford Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
+Version Beta released in Mid-July 2026 - Live in UAT 
+https://gripp-new.entiovi.net https://grippforesight.ai [_Please ask for credentials_]
 
 ---
 
