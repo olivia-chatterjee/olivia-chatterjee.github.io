@@ -87,4 +87,4 @@ Successfully deployed in live HPLC analyzers across hospitals in India, reducing
 Live in Production - No public access.
 
 ---
-_Last updated: October 2025_
+_Last updated: November 2026_
