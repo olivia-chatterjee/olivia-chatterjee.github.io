@@ -41,7 +41,7 @@ This research enhances early-warning capabilities for geopolitical risk analysis
 [Stanford Project Report](/assets/report/Stanford Project Report.pdf){:target="_blank" rel="noopener noreferrer"}
 Version Beta released in Mid-July 2026 - Live in UAT 
 
-[https://gripp-new.entiovi.net](https://gripp-new.entiovi.net) {:target="_blank" rel="noopener noreferrer"} || [https://grippforesight.ai](https://grippforesight.ai) {:target="_blank" rel="noopener noreferrer"} 
+[https://gripp-new.entiovi.net](https://gripp-new.entiovi.net) || [https://grippforesight.ai](https://grippforesight.ai)
 [_Please ask for credentials_]
 
 ---
