@@ -17,6 +17,8 @@ author_profile: true
   .rp-org { margin:0 !important; font-size:.7em !important; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:#2f6f9f; }
   .rp-industry .rp-org { color:#5a7d2c; }
   .rp-pub .rp-org { color:#7a4fa3; }
+  .rp-card.rp-thesis { border-left-color:#b5651d; }
+  .rp-thesis .rp-org { color:#b5651d; }
   .rp-title { margin:.2em 0 .1em !important; font-size:1em !important; font-weight:700; line-height:1.35; }
   .rp-date { margin:0 0 .6em !important; font-size:.75em !important; color:#6a737d; }
   .rp-body p { font-size:.85em; margin:0 0 .6em; }
@@ -42,8 +44,9 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
 <ul class="rp-nav">
   <li><a href="#portfolio">1. Research and Project Portfolio</a></li>
   <li><a href="#publications">2. Publications / Preprints</a></li>
-  <li><a href="#research-reports">3. Research Project Reports</a></li>
-  <li><a href="#industry-reports">4. Industry Project Reports</a></li>
+  <li><a href="#undergrad-thesis">3. Undergraduate Thesis</a></li>
+  <li><a href="#research-reports">4. Research Project Reports</a></li>
+  <li><a href="#industry-reports">5. Industry Project Reports</a></li>
 </ul>
 
 ## 1. Research and Project Portfolio (Summary Deck)
@@ -95,7 +98,27 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
   </div>
 </div>
 
-## 3. Research Project Reports
+## 3. Undergraduate Thesis
+{: #undergrad-thesis}
+
+<div class="rp-card rp-thesis">
+  <div class="rp-body">
+    <p class="rp-org">Undergraduate Research Thesis</p>
+    <p class="rp-title">Benchmarking OCR Engines and VLMs for Transcription of Scanned Handwritten Answer Scripts</p>
+    <p class="rp-date">2025 – 2026</p>
+    <p>Conducted a comparative study of traditional OCR engines (Tesseract, EasyOCR, TrOCR) and three VLMs for transcribing handwritten university examination scripts, evaluated with CER, WER, BLEU, ROUGE-L, and BERTScore against human-prepared ground truth. VLMs substantially outperformed traditional OCR systems, although transcription errors and occasional severe failures highlighted the need for human verification.</p>
+    <p class="rp-label">Download Report:</p>
+    <div class="rp-links">
+      <a class="btn btn--primary btn--small" href="/assets/report/Undergrad%20Thesis.pdf" target="_blank" rel="noopener noreferrer">Undergrad Thesis.pdf</a>
+    </div>
+    <span class="rp-note">Research paper submitted for peer review to ICEPCI-2027.</span>
+  </div>
+  <div class="rp-qr">
+    <figure><img src="/assets/qr/undergrad-thesis.svg" alt="QR code: Undergraduate Thesis paper"><figcaption>Undergrad Thesis</figcaption></figure>
+  </div>
+</div>
+
+## 4. Research Project Reports
 {: #research-reports}
 
 <div class="rp-card">
@@ -119,17 +142,6 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
     <figure><img src="/assets/qr/stanford-report.svg" alt="QR code: Stanford Project Report"><figcaption>Stanford Project Report</figcaption></figure>
     <figure><img src="/assets/qr/gripp-uat.svg" alt="QR code: gripp-new.entiovi.net"><figcaption>gripp-new.entiovi.net</figcaption></figure>
     <figure><img src="/assets/qr/gripp-foresight.svg" alt="QR code: grippforesight.ai"><figcaption>grippforesight.ai</figcaption></figure>
-  </div>
-</div>
-
-<div class="rp-card">
-  <div class="rp-body">
-    <p class="rp-org">Undergraduate Research Thesis</p>
-    <p class="rp-title">Benchmarking OCR Engines and VLMs for Transcription of Scanned Handwritten Answer Scripts</p>
-    <p class="rp-date">2025 – 2026</p>
-    <p>Conducted a comparative study of traditional OCR engines (Tesseract, EasyOCR, TrOCR) and three VLMs for transcribing handwritten university examination scripts, evaluated with CER, WER, BLEU, ROUGE-L, and BERTScore against human-prepared ground truth. VLMs substantially outperformed traditional OCR systems, although transcription errors and occasional severe failures highlighted the need for human verification.</p>
-    <p class="rp-label">Download Report:</p>
-    <span class="rp-note">Research paper submitted for peer review to ICEPCI-2027.</span>
   </div>
 </div>
 
@@ -165,7 +177,7 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
   </div>
 </div>
 
-## 4. Industry Project Reports
+## 5. Industry Project Reports
 {: #industry-reports}
 
 <div class="rp-card rp-industry">
