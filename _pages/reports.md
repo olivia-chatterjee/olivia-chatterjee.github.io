@@ -30,7 +30,17 @@ author_profile: true
   .rp-qr { display:flex; flex-wrap:wrap; gap:.75em; flex-shrink:0; justify-content:flex-end; max-width:230px; }
   .rp-qr figure { margin:0; width:100px; text-align:center; }
   .rp-qr img { display:block; width:100px; height:100px; padding:4px; border:1px solid #e1e4e8; border-radius:4px; background:#fff; }
-  .rp-qr figcaption { margin-top:.3em; font-size:.6em; line-height:1.25; color:#6a737d; }
+  .rp-qr figcaption { margin-top:.3em; font-family:inherit; font-size:.6em; line-height:1.25; color:#6a737d; }
+  .rp-links .btn { text-decoration:none; }
+  .rp-body p.rp-authors { font-size:.8em; color:#57606a; }
+  .rp-xref { display:inline-block; font-size:.75em; font-weight:600; color:#b5651d; text-decoration:none; }
+  .rp-xref:hover { text-decoration:underline; }
+  .rp-path { display:flex; flex-wrap:wrap; align-items:center; gap:.6em; margin:0 0 .9em; }
+  .rp-step { display:inline-block; padding:.45em .8em; border:1px solid #e1e4e8; border-radius:6px; background:#fbf6f1; font-size:.72em; font-weight:600; line-height:1.3; color:#24292f; text-decoration:none; }
+  .rp-step small { font-weight:400; color:#6a737d; }
+  .rp-step--out { background:#f5f0fa; border-color:#d8c8ea; }
+  .rp-step--out:hover { border-color:#7a4fa3; }
+  .rp-arrow { font-size:1.1em; color:#b5651d; }
   .rp-updated { text-align:right; font-size:.75em; color:#6a737d; }
   @media (max-width: 700px) {
     .rp-card { flex-direction:column; }
@@ -87,14 +97,12 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
   </div>
 </div>
 
-<div class="rp-card rp-pub">
+<div class="rp-card rp-pub" id="pub-2">
   <div class="rp-body">
     <p class="rp-org">[2] ICEPCI-2027 · Under Review</p>
     <p class="rp-title">Benchmarking OCR Engines and VLMs for Transcription of Scanned Handwritten Answer Scripts</p>
-    <p>O. Chatterjee and U. K. Sarkar, “<em>Benchmarking OCR Engines and VLMs for Transcription of Scanned Handwritten Answer Scripts</em>,” submitted to ICEPCI-2027.</p>
-    <ul>
-      <li>Under review.</li>
-    </ul>
+    <p class="rp-authors">O. Chatterjee and U. K. Sarkar · submitted to ICEPCI-2027 · under review</p>
+    <a class="rp-xref" href="#undergrad-thesis">Derived from my Undergraduate Thesis ↓</a>
   </div>
 </div>
 
@@ -103,15 +111,18 @@ Welcome to **Olivia Chatterjee’s Research & Technical Reports** — a collecti
 
 <div class="rp-card rp-thesis">
   <div class="rp-body">
-    <p class="rp-org">Undergraduate Research Thesis</p>
+    <p class="rp-org">Undergraduate Research Thesis → Conference Paper</p>
     <p class="rp-title">Benchmarking OCR Engines and VLMs for Transcription of Scanned Handwritten Answer Scripts</p>
-    <p class="rp-date">2025 – 2026</p>
+    <div class="rp-path" style="margin-top:.5em">
+      <span class="rp-step">B.Tech. Thesis<br><small>2025 – 2026</small></span>
+      <span class="rp-arrow">→</span>
+      <a class="rp-step rp-step--out" href="#pub-2">Paper · ICEPCI-2027<br><small>Under review · Publication [2]</small></a>
+    </div>
     <p>Conducted a comparative study of traditional OCR engines (Tesseract, EasyOCR, TrOCR) and three VLMs for transcribing handwritten university examination scripts, evaluated with CER, WER, BLEU, ROUGE-L, and BERTScore against human-prepared ground truth. VLMs substantially outperformed traditional OCR systems, although transcription errors and occasional severe failures highlighted the need for human verification.</p>
-    <p class="rp-label">Download Report:</p>
+    <p class="rp-label">Download Paper:</p>
     <div class="rp-links">
       <a class="btn btn--primary btn--small" href="/assets/report/Undergrad%20Thesis.pdf" target="_blank" rel="noopener noreferrer">Undergrad Thesis.pdf</a>
     </div>
-    <span class="rp-note">Research paper submitted for peer review to ICEPCI-2027.</span>
   </div>
   <div class="rp-qr">
     <figure><img src="/assets/qr/undergrad-thesis.svg" alt="QR code: Undergraduate Thesis paper"><figcaption>Undergrad Thesis</figcaption></figure>
